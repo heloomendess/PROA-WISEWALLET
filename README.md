@@ -1,7 +1,7 @@
 # PROA-WISEWALLET
 Projeto de Educação Financeira
 
-<img src="https://web.whatsapp.com/700498aa-5e5c-43a1-b7bf-b3646401c668" alt="Imagem Figma">
+<img src="blob:https://web.whatsapp.com/700498aa-5e5c-43a1-b7bf-b3646401c668" alt="Imagem Figma">
 
 # LINKS DO PROTÓTIPO NO FIGMA
 - https://www.figma.com/design/bsKYnDOrWUWkFUmecTCLkl/Wise-Wallet?node-id=0-1&t=wuWqQy5Dks1vlpUl-1
